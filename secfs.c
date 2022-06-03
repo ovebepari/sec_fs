@@ -2,6 +2,8 @@
 
   Copyright, Ove Bepari, Md. Sabbir Hossen, Kamrul Islam
   All rights reserved, 2022
+  
+  Source Code: https://github.com/ovebepari/sec_fs
 
   This is a C implementation of File System in User Space
   Depends on: 
@@ -151,6 +153,8 @@ int is_dir(const char * path) {
  *
  */
 void add_file(const char * filename) {
+    // We can add filename naming constraints here
+	
     file_idx++;
     strcpy(files[file_idx], filename);
 
