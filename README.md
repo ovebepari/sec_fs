@@ -1,5 +1,5 @@
 ### Sec_fs
-In Memory, encryption based, every read-write operation encryption-decryption based file system
+In Memory, every read-write operation encryption-decryption based lightweight file system for lightweight secure files (e.g. secret keys, passwords, public keys etc)
 
 Built for the undergrad thesis at DUET, Gazipur
 Copyright, Ove Bepari, Md. Sabbir Hossen, Kamrul Islam
